@@ -1,0 +1,33 @@
+body {
+    font-size: 20px;
+     height: 100%;
+}
+ h1 {
+    color: white;
+    background-color: black;
+}
+button {
+  font-size: 18px;
+  width: 180px;
+  color:black;
+  background-color: black;
+}
+body {
+   border-style:solid;
+    border-width: 8px;
+    border-color: black;
+    border-radius: 16px;\
+    padding: 30px;
+}
+body.home {
+      background: linear-gradient(180deg, navy 80%, grey 20%);
+    color: white;
+}
+body.page1 {
+   background: linear-gradient(180deg, navy 80%, grey 20%);
+    color: white;
+}
+body.pageall {
+  background: linear-gradient(180deg, navy 75%, grey 25%);
+    color: white;
+}
